@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jasirdeen
-- This is my project file about Patient record management system done in php and xampp
+- This is my project file about Patient record management system done using php and xampp
 - 
 
 <!---
